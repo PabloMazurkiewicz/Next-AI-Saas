@@ -1,10 +1,10 @@
-# Genius | An AI-powered Saas platform built with Next.js 13, React, Tailwind, Prisma, Stripe
+# An AI-powered Saas platform built with Next.js 13, React, Tailwind, Prisma, Stripe
 
-Genius is an AI-based application that offers various functionalities, including AI chat, image generation, video generation, music generation, and code generation. This user-friendly platform is designed to make these features accessible to users seamlessly.
+This is an AI-based application that offers various functionalities, including AI chat, image generation, video generation, music generation, and code generation. This user-friendly platform is designed to make these features accessible to users seamlessly.
 
 ## Authentication
 
-Genius offers a secure authentication process using the Clerk library. Users need to log in to access AI chat, image generation, video creation, music generation, and code generation features.
+This program offers a secure authentication process using the Clerk library. Users need to log in to access AI chat, image generation, video creation, music generation, and code generation features.
 
 ## Usage
 
