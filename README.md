@@ -11,7 +11,7 @@ This program offers a secure authentication process using the Clerk library. Use
 ### Installation
 
 1. Clone the repository: `git clone https://github.com/PabloMazurkiewicz/Next-AI-Saas.git`
-2. Navigate to the project directory: `cd ai-saas`
+2. Navigate to the project directory: `cd Next-AI-Saas`
 3. Install dependencies: `npm install`
 
 ### Usage Guide
